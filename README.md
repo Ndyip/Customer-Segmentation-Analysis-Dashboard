@@ -94,7 +94,7 @@ The dashboard helps answer questions such as:
 ## Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](images/Dashboard-overview.png)
 
 ### Customer Segmentation
 ![Customer Segments](images/customer-segments.png)
