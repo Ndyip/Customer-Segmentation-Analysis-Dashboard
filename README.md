@@ -91,6 +91,21 @@ The dashboard helps answer questions such as:
 - Use customer segmentation to improve customer lifetime value (CLV).
 
 
+## Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard](images/dashboard-overview.png)
+
+### Customer Segmentation
+![Customer Segments](images/customer-segments.png)
+
+### Demographics Analysis
+![Demographics](images/demographics.png)
+
+### Spending Analysis
+![Spending](images/spending-analysis.png)
+
+
 ---
 
 ## ⭐ If you found this project helpful, please consider giving it a star!
