@@ -91,10 +91,6 @@ The dashboard helps answer questions such as:
 - Use customer segmentation to improve customer lifetime value (CLV).
 
 
-## 👩‍💻 Author
-
-**Jennifer Bitrus**
-
 ---
 
 ## ⭐ If you found this project helpful, please consider giving it a star!
